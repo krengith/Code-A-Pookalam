@@ -14,12 +14,13 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+  I had come up with the idea for this pookalam design with the idea of it being interactive. As websites that are interactive are more fun to go through than others I decided to implement a scroll-down-to-reveal-pookalam. As this required more than just html and css coding, I reached out to chat gpt for further assistance and accomplised a immersive pookalam website!🌸🌻🌺🪷🌷
 
 
 
 ### Technologies Used 
-
+>Chat gpt
+>Visual Studio Code
 
 ### Video explaining How you build the pookalam
 
