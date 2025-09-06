@@ -5,20 +5,29 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 Your Details
-[Name] - [Branch] - [Semester]
+Krishna Rengith - Computer Science Engineering - S1
+
 Hosted Pookalam Link
+
 Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+
+    With the thought of a comical pookalam in mind I tried my best to go for the 
+simplest design out there. Although I needed the assistance of chat GPT at the beginning I had figured out the basic features in order to create a colorful minimalistic pookalam!
+🌸🌻🌺🪷🌷
+
 
 Technologies Used
+-Chat gpt
+-Visual Studio Code
+-git
 
 ### Video explaining How you build the pookalam
 
 
 
 ### Screenshots
-
-
+<img src="screenshot_2.jpg"><BR>
+<img src="screenshot_1.jpg">
 
 Happy Onam ! <br>
 Made with ❤️ at TinkerHub LBSITW
